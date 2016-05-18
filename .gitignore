@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.nii
+*.nii.gz
+*.dcm
+*.onnx
+*.pt
+*.pth
+.pytest_cache/
+build/
+dist/
+venv/
